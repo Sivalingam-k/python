@@ -1,0 +1,71 @@
+print() and input() both are build in function
+
+print() function:
+
+   *It is used to get the output.
+   * It is used to display the specified message screen or other standard output device.
+
+
+
+ Input() Function:
+
+
+   *It is used to get input from the user  .
+
+
+value=int (input("enter the mobilenumber:"))
+print("Enter the number:",value)
+
+print("Entered type",type(value))
+
+   #Arithmetic Operator:
+   ========================
+
+   +      =  Addition
+   -      =  Subtraction
+   *      =  Multiplivation
+   /      =  Division 
+   %      =  Modulus(Gives Remainder)
+
+[2:09 PM] Kasturi (Unverified)
+>>> 25/5 (Division)
+
+5.0  -> return in float
+
+>>> 25// ->(floor Division)
+
+5 -> return in integer
+
+>>> 24/5
+
+4.8
+
+>>> 24//5
+
+4
+
+>>> 25%5
+
+0
+
+>>> 2**3
+
+8
+
+>>>
+ 
+   ===============================
+   SWAP TWO NUMMBERS:
+   +=============================+
+
+  
+
+
+
+
+
+
+
+
+
+

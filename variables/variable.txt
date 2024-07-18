@@ -1,0 +1,96 @@
+#Variables:
+
+-->  variables are the container which is used to store data init. Variables is also address the memory location(used to refer memory location).
+example: login form inputs are variables.
+
+-->Also known as identifier.
+-->No need to declare datatypes.
+
+#Declaring a variable
+---------------------
+student_name='siva'
+is_pass=True
+print('student_name :',student_name ,'status :',is_pass)
+
+#Variable Assignment
+--------------------------------------------
+#(assignig single value to multiple variables)
+
+Batch09=Batch10=Batch12='PYTHON DEVELOPMENT'
+
+print(Batch09)
+#or
+print(Batch09,Batch10,Batch12)
+
+#(assignig multiple value to multiple variables)
+Name,Age,Course='siva',23,Batch09
+print(Name,Age,Course)
+
+# OUTPUT:
+# =================
+# student_name : siva status : True
+# PYTHON DEVELOPMENT
+# PYTHON DEVELOPMENT PYTHON DEVELOPMENT PYTHON DEVELOPMENT
+# siva 23 PYTHON DEVELOPMENT
+
+#Rules and Regulation:
+-----------------------------
+1.variable name cannot start with number but it can have a number
+   student_01='shiva'-------------------------------------(valid)
+   01_student='shiva'-------------------------------------(invalid: will throw error )
+
+2.Keywords are not allowed.
+
+3.case sensitive(Age,age,AGE are three different variables)
+Age=18
+age=64
+AGE=24
+
+4.cannot use special_symbols
+
+ ice_cream='vanilla'
+ print(ice_cream)-----------------------------------------(invalid: will throw error)
+   
+#Memory:
+-----------
+line_01='Python is developer by GUIDO VAN ROSSUM'
+print(line_01)
+
+print('Address Location :',id(line_01))
+
+# Python is developer by GUIDO VAN ROSSUM
+# Address Location : 2598597155280
+
+line_02='Python is developer by GUIDO VAN ROSSUM'
+print(line_02)
+
+print('Address Location :',id(line_02))
+
+# Python is developer by GUIDO VAN ROSSUM
+# Address Location : 2203222268368
+
+
+
+line_03='In 1991'
+print(line_03)
+
+print('Address Location :',id(line_03))
+
+# In 1991
+# Address Location : 2203224661024
+
+
+
+=================================================================================================================
+#keywords:
+
+*keywords are special reserved words that have a specific purposes and meanings.
+
+==================================================================================================================
+
+id()-build in function
+   
+   *All objects in python has its own unique id.
+   *It is represented by an integer values.
+   *id() function returns the id of the specific object.
+

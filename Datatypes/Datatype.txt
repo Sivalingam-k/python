@@ -1,0 +1,48 @@
+Data Types:
+=====================
+  *Datatypes are categorization or classification of data items.
+  *It represents the kind of value that tells What Operations can be performed on a particular data.
+
+Build -In Datatypes:
+========================
+
+  *NUmeric  =Integer,float,complex
+  *Sequence =String,list,tuple
+  *Boolean
+  *Set
+  *Dictionary
+
+
+  #Mutable Objects : mutable Objects can change their state or content
+        EXAMPLE:
+            *list
+            *Dictionary
+            *Set
+
+  #Immutable Objects : Canot change their state or content
+            EXAMPLE:
+            *int
+            *float
+            *Boolean
+            *Tuple
+            *String
+
+=====================================================================================================
+List:
+===========================
+       *Mutable Object
+       *It is a sequence datatype which is used to store collection of data.
+
+=========================================================================================
+Tuple:
+===========================
+        *Immutable Object
+        *used to store the values
+        *ordered.
+ =========================================================================================       
+String:
+=======================
+        *Sequence of Characters.
+        *Create a String using single quote,double quote or for multiline statement triple quote
+        *Immutable
+        *ordered.
