@@ -1,0 +1,7 @@
+range():
+==========
+
+    --> Range Function is number of sequence.
+    --> start -> default 0
+    -->stop   -> Excluded
+    --> step  -> default 1

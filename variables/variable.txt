@@ -3,8 +3,8 @@
 -->  variables are the container which is used to store data init. Variables is also address the memory location(used to refer memory location).
 example: login form inputs are variables.
 
--->Also known as identifier.
--->No need to declare datatypes.
+--> Also known as identifier.
+--> No need to declare datatypes.
 
 #Declaring a variable
 ---------------------

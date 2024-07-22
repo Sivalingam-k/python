@@ -1,0 +1,7 @@
+Membership Operator==> in,not in
+used to check whether the variable or value is in a sequence.
+
+in==>return true.If value is found in the sequence.
+not in==>return true.If value is not found in the sequence.
+
+

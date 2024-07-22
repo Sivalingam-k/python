@@ -1,0 +1,10 @@
+While Loop is used to execute block of statements repeatedly until a given condition is statisfied.
+
+
+--> When the condition becomes false,the line immediately after the looping .
+-->The given program is executed.
+syntax:
+==========
+
+       while(Expression):
+       loop body

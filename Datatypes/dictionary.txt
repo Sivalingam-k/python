@@ -1,0 +1,8 @@
+Dictionary:
+===========
+         *It is a Collection of Key and value pair.
+         *Here, each key is connected to the value.
+         *use a key to access the value.
+         *Key should be unique.
+         *if you make a duplicate of  the key.Then ,it will take the latest duplicate key's value.so the key should be unique.
+
