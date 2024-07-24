@@ -51,7 +51,7 @@ watch_details["IWC"]=7000
 print("Adding Data :",watch_details)
 
 
-#create a dictionary
+#create a  food item dictionary
 food_item={
     'chappthi':20000,
     'vada':42,

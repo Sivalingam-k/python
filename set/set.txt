@@ -1,0 +1,8 @@
+Set:
+==============
+  --> Collection of items.
+  --> enclosed in {}.
+  --> each element is separated with ','.
+  --> Set is mutable.(add,remove,update)
+  --> Set is Unordered.
+  --> Set is Unique.(No duplicate)
