@@ -1,0 +1,72 @@
+FILTER,MAP,REDUCE:
+========================
+
+==>map,filter,reduce are paradigms of functional programming.
+==>map and filter are build in function.
+==>reduce ,need to be imported as it resides in the functools module.
+
+
+syntax:
+---------
+   FILTER(function,iterable):
+      Function-->It tests if each element of a sequence True or Not.
+      Sequence-->which need to be filtered , it can be list sets, tuples or containers of any iterators.
+
+
+-->Lambda Function:
+
+     --> it is an anonymous function(Function without name)
+     ->This function can take any number  of arguments but only one expression ,which is evaluated and returned.
+
+     SYntax: lambda arguments:expression
+
+-->map() Function:
+====================
+
+     -->map() function returns a map object (Which is an iterator) of the results.
+     -->After applying the given function to each item of the given iterable(list,tuple,etc)
+     -->or allows you to process and transform all the items in an iterable.
+     -->without using an explicit for loop,technique commanly known as mapping.
+
+     syntax:
+     =======
+
+         map(function,iterable[iterable1,iterable2.....])     
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
